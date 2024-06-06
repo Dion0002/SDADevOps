@@ -1,2 +1,3 @@
 new text file 1234
 
+read1234
